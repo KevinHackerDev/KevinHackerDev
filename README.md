@@ -1,7 +1,7 @@
 # Hi, ich bin Kevin Hacker 👋
 
 🎓 Umschulung zum Fachinformatiker für Anwendungsentwicklung (1. Jahr abgeschlossen)  
-🚀 Aktuell auf der Suche nach einem Praktikum im Bereich Anwendungsentwicklung  
+  
 
 ---
 
